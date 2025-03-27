@@ -1,3 +1,4 @@
 cjbdjcbjdcbdjcwhjbwdxhjx
 hjfvhgftyfhcc
 wdjkcndejkcnk
+git status -s (check files changes ) 
