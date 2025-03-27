@@ -2,3 +2,4 @@ cjbdjcbjdcbdjcwhjbwdxhjx
 hjfvhgftyfhcc
 wdjkcndejkcnk
 git status -s (check files changes ) 
+git log --oneline (shows all ave points)
